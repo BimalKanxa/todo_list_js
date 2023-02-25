@@ -28,7 +28,7 @@ window.addEventListener('load', () => {
 		// Reset the form
 		e.target.reset();
 
-		DisplayTodos()
+		DisplayTodos() 
 	})
 
 	DisplayTodos()
